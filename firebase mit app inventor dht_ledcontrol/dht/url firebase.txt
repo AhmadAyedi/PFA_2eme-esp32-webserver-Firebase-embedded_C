@@ -1,0 +1,4 @@
+
+AIzaSyARpoTNNe-CviB4gJWxe01V2W9Y1QkC1CQ
+url:  https://dht11-9289b-default-rtdb.firebaseio.com/
+secret: XyF2cOakAXi0uyVdUfYQmcuzcBFWT0imgDwmCqVt
